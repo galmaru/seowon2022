@@ -2,6 +2,7 @@
 
 ## 1일차
 ### 강의자료
+[강의자료 1일차](https://github.com/galmaru/seowon2022/blob/main/files/(%EC%B5%9C%EC%A2%85)(2022.6.22)(2%EC%9D%BC%EC%B0%A8)%20R%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EA%B8%B0%EC%B4%88.pptx)
 ### 코드
 
 ## 2일차
