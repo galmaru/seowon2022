@@ -2,7 +2,9 @@
 
 ## 개발환경
 구글 colab
+
 [R: colab.to/r](https://colab.to/r)
+
 [python: colab.to](https://colab.to/)
 
 ## 1일차
