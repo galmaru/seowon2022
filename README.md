@@ -1,5 +1,10 @@
 # 2022 서원대학교 데이터 분석 w/ R&Python 강의 자료
 
+## 개발환경
+구글 colab
+[R: colab.to/r](https://colab.to/r)
+[python: colab.to](https://colab.to/)
+
 ## 1일차
 ### 강의자료
 
