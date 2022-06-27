@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkseowon_2022=self.webpackChunkseowon_2022||[]).push([[5829],{5775:o=>{o.exports=JSON.parse('{"permalink":"/seowon2022/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
