@@ -20,8 +20,8 @@
 
 
 ## 3일차
-### 📖 강의자료:  
-### 💻 코딩실습
+### 📖 [강의자료: R 분석](https://github.com/galmaru/seowon2022/blob/main/files/(%EC%B5%9C%EC%A2%85)(2022.6.23)(3%EC%9D%BC%EC%B0%A8)%20R%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D%20%EA%B8%B0%EC%B4%88.pptx)
+### 💻 [코딩실습: R 분석](https://github.com/galmaru/seowon2022/blob/main/files/(3%EC%9D%BC%EC%B0%A8)_R_%EA%B8%B0%EC%B4%88_%EB%8D%B0%EC%9D%B4%ED%84%B0_%EB%B6%84%EC%84%9D.ipynb)
 
 ## 4일차
 ### 📖 강의자료 
