@@ -5,15 +5,17 @@
 [google colab - R](https://colab.to/r)  
 [google colab - Python](https://colab.to/)
 
-## 1일차
-### 강의자료 📖
+## 강의자료 다운로드 방법
+링크 클릭후 우하단의 download 혹은 가운데 view raw 클릭
 
-### 코드
+## 1일차
+### [강의자료: 빅데이터 소개]() 📖
 
 ## 2일차
-### 강의자료 📖
-[강의자료 2일차. 클릭후 우하단의 download](https://github.com/galmaru/seowon2022/blob/main/files/(%EC%B5%9C%EC%A2%85)(2022.6.22)(2%EC%9D%BC%EC%B0%A8)%20R%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EA%B8%B0%EC%B4%88.pptx)
-### 코드
+### [강의자료 📖 ](https://github.com/galmaru/seowon2022/blob/main/files/(%EC%B5%9C%EC%A2%85)(2022.6.22)(2%EC%9D%BC%EC%B0%A8)%20R%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EA%B8%B0%EC%B4%88.pptx)
+
+### [2일차 코드](https://colab.research.google.com/drive/1VqjvsFuqE-pkVBMU0Y_yfn__L97elgnn#scrollTo=Gc_qgvTQZmoX)
+
 
 ## 3일차
 ### 강의자료 📖
