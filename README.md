@@ -32,9 +32,9 @@
 ### 💻 코딩실습
 
 ----
-## 📫 
+## ☎️ 문의사항
 
-🐔 민종열 wpdntm3001@naver.com  
-🐯 김성훈 prophetest@hotmail.com  
+🐔 민종열 wpdntm3001@naver.com    010-5439-5931
+🐯 김성훈 prophetest@hotmail.com  010-6234-0649  
 
 
