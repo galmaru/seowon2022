@@ -31,6 +31,6 @@
 ## 📫 
 
 🐔 민종열 wpdntm3001@naver.com  
-🦁 김성훈 prophetest@hotmail.com  
+🐯 김성훈 prophetest@hotmail.com  
 
 
