@@ -22,9 +22,9 @@
 
 ## 4일차
 ### 📖 강의&실습자료 
-https://colab.research.google.com/drive/1FoSYc9s9IpRBVpzrE5vavhCK_QGVJEVi
+[Python 프로그래밍 기초](https://colab.research.google.com/drive/1FoSYc9s9IpRBVpzrE5vavhCK_QGVJEVi)
 ### 💻 강의&실습자료(정답지)
-https://colab.research.google.com/drive/1pKOLjJz6iOBLNGODNvD-JLGHS9G2kCZ9
+[Python 기초 데이터 분석](https://colab.research.google.com/drive/1pKOLjJz6iOBLNGODNvD-JLGHS9G2kCZ9)
 
 ## 5일차
 ### 📖 강의&실습자료 
