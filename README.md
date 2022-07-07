@@ -26,7 +26,7 @@
 
 ## 5일차
 ### 📖 [강의&실습자료: Python 기초 데이터 분석](https://colab.research.google.com/drive/1At_RRxgP1hSK5MrxfmIGz9eAgt82ojtb) 
-### 📖 [강의&실습자료: Python 기초 데이터 분석(정답지)](https://colab.research.google.com/drive/1QGBM5KUKwvu1qo2Z5JSpre8m541DNIlh) 
+### 💻 [강의&실습자료: Python 기초 데이터 분석(정답지)](https://colab.research.google.com/drive/1QGBM5KUKwvu1qo2Z5JSpre8m541DNIlh) 
 
 ----
 ## ☎️ 문의사항 
