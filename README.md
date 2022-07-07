@@ -25,8 +25,7 @@
 ### 💻 [강의&실습자료: Python 프로그래밍 기초(정답지)](https://colab.research.google.com/drive/1Z08SUhEds2iRBxUB3JrPX9LDPjNVbbjb)
 
 ## 5일차
-### 📖 [강의&실습자료](https://colab.research.google.com/drive/1At_RRxgP1hSK5MrxfmIGz9eAgt82ojtb) 
-### 💻 [강의&실습자료(정답지)]()
+### 📖 [강의&실습자료: Python 기초 데이터 분석](https://colab.research.google.com/drive/1At_RRxgP1hSK5MrxfmIGz9eAgt82ojtb) 
 
 ----
 ## ☎️ 문의사항 
